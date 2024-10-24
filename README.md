@@ -57,7 +57,7 @@ I am currently fulfilling my mandatory military service and plan to begin job se
 #### Studying
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ethanskywalker)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap/ethanskywalker?cache=0)
 
 ### My Projects
 - [F1 Info](https://github.com/EthanKyleKim/formulaone) - F1 선수들의 그랑프리 정보를 제공하는 사이트입니다.  
