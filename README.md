@@ -19,10 +19,15 @@ Hello, I am **Juhyun Kim**, a Front-End Developer.
 
 저는 프론트엔드 개발자 **김주현**입니다.
 
+### Hi there! 👋
+
+Hello, I am **Juhyun Kim**, a Front-End Developer.  
+저는 프론트엔드 개발자 **김주현**입니다. React, TypeScript, Next.js를 주로 사용하며, 성능 최적화와 사용자 경험 개선에 중점을 두고 있습니다. 최근에는 **Three.js**를 공부하며 3D 웹 개발에 도전하고 있습니다.
+
 ### My Hobbies
-- Soccer ⚽
-- Fitness 🏋️
-- Listening to music 🎵
+- Soccer ⚽ / 축구
+- Fitness 🏋️ / 헬스
+- Listening to music 🎵 / 음악 듣기
 
 ### Work Experience
 - **Impix**: 2019.02 ~ 2023.03
@@ -32,15 +37,17 @@ Hello, I am **Juhyun Kim**, a Front-End Developer.
 - **Languages**: JavaScript, TypeScript, HTML, CSS
 - **Frameworks**: React, Next.js, Styled-Components
 - **State Management**: Redux, Zustand
+- **Data Fetching**: TanStack Query (formerly React Query)
 - **Tools**: Git, Webpack
 - **Studying**: Three.js for 3D web development
 
 ### My Projects
-- [F1 Info](https://github.com/EthanKyleKim/formulaone) - F1 선수들의 그랑프리 정보를 볼 수 있는 사이트 입니다.
-- [GrigomPictures](https://github.com/EthanKyleKim/grigomsite) - GrigomPictures 회사 소개 및 컨텍을 위한 사이트입니다.
+- [F1 Info](https://github.com/EthanKyleKim/formulaone) - F1 선수들의 그랑프리 정보를 제공하는 사이트입니다.  
+- [GrigomPictures](https://github.com/EthanKyleKim/grigomsite) - GrigomPictures 회사 소개 및 연락처를 위한 사이트입니다.
 
 ### My Tech Blog
-I share my knowledge and experiences on my tech blog. Check it out here: [Velog - Juhyun Kim's Blog](https://velog.io/@ethankyle/posts)
+I share my knowledge and experiences on my tech blog. Check it out here: [Velog - Juhyun Kim's Blog](https://velog.io/@ethankyle/posts)  
+기술 블로그에서 저의 경험과 지식을 공유하고 있습니다.
 
 ### Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juhyeon-kim0407/)
