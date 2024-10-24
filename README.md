@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I am **Juhyun Kim**, a Front-End Developer.
-
-저는 프론트엔드 개발자 **김주현**입니다.
-
-### Hi there! 👋
-
 I am **Juhyun Kim**, a Front-End Developer. I primarily work with React, TypeScript, and Next.js, focusing on performance optimization and enhancing user experience. Recently, I've been studying **Three.js** to explore 3D web development.
 
 I am currently fulfilling my mandatory military service and plan to begin job searching after completing my duty. In the meantime, I am continuously learning new technologies and working on projects to keep growing as a developer.
