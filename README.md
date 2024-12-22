@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-프론트엔드 개발자 **김주현**입니다. React, TypeScript를 주로 사용하며, 성능 최적화와 사용자 경험 개선에 중점을 두고 있습니다. 최근에는 **Next.js**, **Three.js**를 공부하며 3D웹 개발을 하고 있습니다.
+프론트엔드 개발자 **김주현**입니다. 
+모든 지식과 아이디어는 창의적인 개발로 연결될 수 있다고 믿으며, 경험과 도전의 중요성을 중시하며 `React`, `TypeScript`를 주로 사용하며, 성능 최적화와 사용자 경험 개선에 중점을 두고 있습니다. 최근에는 `Next.js`, `Three.js`를 공부하며 3D웹 개발을 하고 있습니다.
 
 ### My Hobbies
 - Soccer ⚽ / 축구
