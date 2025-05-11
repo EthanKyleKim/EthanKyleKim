@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - Listening to music 🎵 / 음악 듣기
 
 ### Work Experience
+- **Grit Standard**: 2025.04
 - **Peertec**: 2023.03 ~ 2024.07
 - **Impix**: 2019.02 ~ 2023.03
 
