@@ -53,8 +53,6 @@ Here are some ideas to get you started:
 #### Studying
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ethanskywalker?ext=heatmap)
-
 ### My Projects
 - [F1 Info](https://github.com/EthanKyleKim/formulaone) - F1 선수들의 그랑프리 정보를 제공하는 사이트입니다.  
 - [GrigomPictures](https://github.com/EthanKyleKim/grigomsite) - GrigomPictures 회사 소개 및 연락처를 위한 사이트입니다.
